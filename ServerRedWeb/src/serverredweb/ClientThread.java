@@ -50,7 +50,7 @@ public class ClientThread extends Thread{
     
     //public static final String URL_INFO = "http://192.168.2.186/check123.php";
     
-    public static final String URL_INFO = "http://213.8.208.50/API/RlAppLChecker.php";
+    public static final String URL_INFO = "http://212.199.145.226/API/RlAppLChecker.php";
     
     
     public static final String KEYPASS = "z56+}Ry&@@vbn4T8GG3HJk*/\\0\n\n\\\\8Tu6&3##\u8566";
